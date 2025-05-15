@@ -1,4 +1,4 @@
-all: libTimer.a
+lall: libTimer.a
 
 CPU             = msp430g2553
 CFLAGS          = -mmcu=${CPU} 
